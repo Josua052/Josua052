@@ -8,7 +8,7 @@
 
 <a href="https://www.josuaronaldo.my.id/"><img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=4ADEDE"/></a>
 <a href="https://www.linkedin.com/in/josua-ronaldo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Josua052&style=for-the-badge&color=4ADEDE&label=Profile+Views"/>
+<a href="https://hits.sh/github.com/Josua052/Josua052/"><img src="https://hits.sh/github.com/Josua052/Josua052.svg?view=today-total&style=for-the-badge&label=PROFILE%20VIEWS&color=4ADEDE&labelColor=0d1117"/></a>
 
 </div>
 
@@ -17,12 +17,12 @@
 ## 👨‍💻 Tentang Saya
 
 ```yaml
-saya: Josua Ronaldo Pandiangan
+Jojo
 lokasi: Jakarta, Indonesia
 sedang_membangun: Aplikasi full stack dengan React & Golang
 sedang_belajar: Golang microservices
 tanya_saya_soal: React, Laravel, TypeScript, Tailwind
-di_luar_ngoding: Sepakbola ⚽ · Bulutangkis 🏸 · Menjelajah alam 🏞️
+di_luar_ngoding: Sepakbola · Bulutangkis  · Menjelajah alam 
 ```
 
 <br/>
@@ -43,7 +43,6 @@ di_luar_ngoding: Sepakbola ⚽ · Bulutangkis 🏸 · Menjelajah alam 🏞️
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josua052&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10"/>
 </div>
 
-<p align="center"><i>Otomatis dihitung dari bahasa pemrograman di seluruh repo kamu — update sendiri tiap ada push baru. Framework seperti React/Laravel/Tailwind tidak muncul di sini karena GitHub hanya mendeteksi bahasa, bukan library.</i></p>
 
 </details>
 
