@@ -35,6 +35,20 @@ di_luar_ngoding: Sepakbola ⚽ · Bulutangkis 🏸 · Menjelajah alam 🏞️
 
 <br/>
 
+<details>
+<summary><b>📈 Auto-detected dari repository (real-time, via GitHub API)</b></summary>
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josua052&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10"/>
+</div>
+
+<p align="center"><i>Otomatis dihitung dari bahasa pemrograman di seluruh repo kamu — update sendiri tiap ada push baru. Framework seperti React/Laravel/Tailwind tidak muncul di sini karena GitHub hanya mendeteksi bahasa, bukan library.</i></p>
+
+</details>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
