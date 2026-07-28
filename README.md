@@ -1,69 +1,101 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Josua+%F0%9F%91%8B;Full+Stack+Developer;React+%7C+Golang+%7C+Laravel+%7C+TypeScript" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Halo,%20Saya%20Josua%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Golang%20%E2%80%A2%20Laravel&descAlignY=55&descSize=16&descColor=ffffff" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=4ADEDE&center=true&vCenter=true&width=600&lines=Frontend+%2B+Backend+Developer;React+%7C+TypeScript+%7C+Tailwind;Golang+%7C+Laravel+%7C+PHP;Suka+Sepakbola+%26+Bulutangkis+%E2%9A%BD" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://www.josuaronaldo.my.id/"><img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=4ADEDE"/></a>
+<a href="https://www.linkedin.com/in/josua-ronaldo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Josua052&style=for-the-badge&color=4ADEDE&label=Profile+Views"/>
 
 </div>
 
-<p align="center">
-  Full stack developer yang suka membangun aplikasi web dari backend sampai frontend.<br/>
-  Di luar coding, saya suka sepakbola, bulutangkis, dan menjelajah alam 🏞️
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://www.josuaronaldo.my.id/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/josua-ronaldo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## 👨‍💻 Tentang Saya
 
----
+```yaml
+saya: Josua Ronaldo Pandiangan
+lokasi: Jakarta, Indonesia
+sedang_membangun: Aplikasi full stack dengan React & Golang
+sedang_belajar: Golang microservices
+tanya_saya_soal: React, Laravel, TypeScript, Tailwind
+di_luar_ngoding: Sepakbola ⚽ · Bulutangkis 🏸 · Menjelajah alam 🏞️
+```
 
-### 🛠️ Tech Stack
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## 🧰 Tech Stack
 
----
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,go,laravel,php,html,css,git,github,vscode&theme=dark&perline=6"/>
+</div>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Josua052&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josua052&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josua052&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Josua052&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Josua052&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Josua052&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Josua052&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="97%"/>
 
-### 🚀 Featured Projects
+<img src="https://github-profile-trophy.vercel.app/?username=Josua052&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
-| Project | Deskripsi | Stack |
-|---|---|---|
-| [Portfolio-Josua](https://github.com/Josua052/Portfolio-Josua) | Personal portfolio website | JavaScript |
-| [apirumahsakit](https://github.com/Josua052/apirumahsakit) | REST API sistem rumah sakit | PHP |
-| [mean-crud-tubes](https://github.com/Josua052/mean-crud-tubes) | CRUD app dengan MEAN-like stack | TypeScript |
-| [MassiveProject](https://github.com/Josua052/MassiveProject) | — | — |
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Josua052&style=for-the-badge&color=38B2AC" />
-</p>
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Josua052/Josua052/output/github-snake-dark.svg" width="100%"/>
+<i>(muncul otomatis setelah workflow snake.yml dijalankan pertama kali)</i>
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[🎨 Portfolio-Josua](https://github.com/Josua052/Portfolio-Josua)**
+Personal portfolio website
+`JavaScript`
+
+</td>
+<td width="50%">
+
+**[🏥 apirumahsakit](https://github.com/Josua052/apirumahsakit)**
+REST API sistem rumah sakit
+`PHP`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[⚙️ mean-crud-tubes](https://github.com/Josua052/mean-crud-tubes)**
+CRUD app dengan MEAN-like stack
+`TypeScript`
+
+</td>
+<td width="50%">
+
+**[📦 MassiveProject](https://github.com/Josua052/MassiveProject)**
+Proyek skala besar
+`—`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
