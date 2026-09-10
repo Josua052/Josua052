@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Halo,%20Saya%20Josua%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20•%20React%20•%20Golang%20•%20Laravel&descAlignY=52&descSize=17&descColor=4ADEDE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:134e5e,100:4ADEDE&height=250&section=header&text=Halo,%20Saya%20Josua%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20•%20React%20•%20Golang%20•%20Laravel&descAlignY=52&descSize=17&descColor=ffffff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ADEDE&center=true&vCenter=true&width=650&lines=Frontend+%2B+Backend+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Tailwind+%E2%9A%9B%EF%B8%8F;Golang+%7C+Laravel+%7C+PHP+%F0%9F%9A%80;Suka+Sepakbola+%26+Bulutangkis+%E2%9A%BD" alt="Typing SVG"/>
 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/followers/Josua052?style=for-the-badge&logo=github&label=Followers&color=0d1117&labelColor=0d1117&logoColor=4ADEDE"/>
 <a href="https://hits.sh/github.com/Josua052/Josua052/"><img src="https://hits.sh/github.com/Josua052/Josua052.svg?view=today-total&style=for-the-badge&label=PROFILE%20VIEWS&color=4ADEDE&labelColor=0d1117"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:134e5e,100:4ADEDE&height=3&section=header" width="100%"/>
 
 </div>
 
@@ -69,7 +69,12 @@ const josua: Developer = {
 <img src="https://github-profile-trophy.vercel.app/?username=Josua052&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
-> ℹ️ Catatan: `streak-stats.herokuapp.com` sudah tidak aktif (Heroku menghentikan tier gratisnya), jadi sudah diganti ke `streak-stats.demolab.com` yang merupakan instance resmi pengganti. Kartu dari `vercel.app` sesekali bisa lambat/blank karena rate limit gratisan bersama — kalau itu terjadi, biasanya cukup di-refresh beberapa saat lagi, atau bisa deploy instance sendiri di Vercel supaya selalu stabil.
+<!--
+  Catatan untuk pemilik repo (tidak tampil di halaman profil):
+  - streak-stats.herokuapp.com sudah mati (Heroku hapus tier gratis) -> diganti streak-stats.demolab.com.
+  - Kartu dari vercel.app kadang lambat/blank karena rate limit gratisan bersama.
+    Kalau sering terjadi, deploy instance sendiri di Vercel biar stabil.
+-->
 
 <br/>
 
@@ -113,7 +118,7 @@ const josua: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ADEDE,50:134e5e,100:0d1117&height=150&section=footer" width="100%"/>
 
 <sub>✨ Terima kasih sudah mampir! Jangan lupa tinggalkan ⭐ di repo favoritmu dan follow untuk update proyek terbaru 🚀</sub>
 
